@@ -42,9 +42,11 @@ For this task, I have implemented the research paper CANET. To know more about t
 I have created some small modules in my notebook and then combined the whole network at the end. 
 
 
-The modules are : 1. Convolutional Block
-
-`   `             2. Identity Block
+The modules are : 
+                  
+                  1. Convolutional Block
+                  
+                  2. Identity Block
 
                   3. Feature Selection Module
                   
