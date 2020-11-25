@@ -54,6 +54,8 @@ The modules are :
                   
                   5. Context Flow 
                   
+                  6. Adapted Global Convolutional Network
+                  
                   
 This are the modules which used in the architecture for the segmentation task.
 
