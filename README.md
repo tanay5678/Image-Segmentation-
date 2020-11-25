@@ -4,6 +4,7 @@
 This is Image Segmenation task on Indian Traffic Data.
 
 # Data:
+<pre>
 1. You can download the data from this link, and extract it ( https://drive.google.com/file/d/1iQ93IWVdR6dZ6W7RahbLq166u-6ADelJ/view?usp=sharing )
 
 2. All your data will be in the folder "data" 
@@ -31,10 +32,13 @@ This is Image Segmenation task on Indian Traffic Data.
 |-----| ------|--------| ----- json 2 (labeled objects in image 1)
 |-----| ------|--------| ----- ...
 |-----| ------|----- .....
+</pre>
 
 # Approach:
 For this task, I have implemented the research paper CANET. To know more about the architecture you can use this link https://arxiv.org/pdf/2002.12041.pdf .
+
 I have created some small modules in my notebook and then combined the whole network at the end. 
+
 The modules are : 1. Convolutional Block
 `   `             2. Identity Block
                   3. Feature Selection Module
