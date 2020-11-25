@@ -1,4 +1,4 @@
-# Image-Segmentation- ON Indian Traffic 
+# Image-Segmentation-
 
 # Task :
 This is Image Segmenation task on Indian Traffic Data.
